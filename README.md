@@ -13,7 +13,7 @@ Com o Visa myFids, todas as informações que você precisa para sua viagem est�
 
 ## Equipe
 
-[Richard Wallier](https://github.com/RichardWallier) | [Vitor Sergio](https://github.com/itsmevitinn) | [Lohan Guedes](https://github.com/LohanGuedes) | [Willian Caetano](https://github.com/williancaetano)
+[Lohan Guedes](https://github.com/LohanGuedes) | [Richard Wallier](https://github.com/RichardWallier) | [Vitor Sergio](https://github.com/itsmevitinn) | [Willian Caetano](https://github.com/williancaetano)
 
 <hr>
 
